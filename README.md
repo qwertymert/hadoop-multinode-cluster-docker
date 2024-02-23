@@ -1,6 +1,7 @@
 # How To Run
 
 Note: This guide is for Linux (Ubuntu) machines, however, commands can be adapted for other operating systems or a virtual environment can be used instead. (Example: WSL)
+This project uses code base from kiwenlau/hadoop-cluster-docker.
 
 -- Steps for running --
 
